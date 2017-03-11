@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="api_key_value" translatable="false">8d119d046b1c87e7fdba0d3a2691893f</string>
+    <!-- tags o campos que se requieren leer de la respuesta JSON-->
+    <string name="results_json_param" translatable="false">results</string>
+    <string name="id_json_param" translatable="false">id</string>
+    <string name="title_json_param" translatable="false">original_title</string>
+    <string name="description_json_param" translatable="false">overview</string>
+    <string name="posrter_path_json_param" translatable="false">poster_path</string>
+    <string name="base_url_image_api" translatable="false">http://image.tmdb.org/t/p/</string>
+    <string name="image_size_default" translatable="false">w185</string>
+</resources>
